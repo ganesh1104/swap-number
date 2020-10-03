@@ -1,0 +1,7 @@
+x- we add number value 5 to this variable.
+y- we added number value 10 for this varialbe
+create a temporary variable and name it temp.
+now,let temp=x and now update value of x=y.
+now aganin update value of y= temp.
+
+the code is complete.
